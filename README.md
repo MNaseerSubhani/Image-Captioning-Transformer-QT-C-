@@ -15,7 +15,7 @@ ONNX Runtime library
 * Clone the repository to your local machine:
 
 ```
-git clone https://github.com/MNaseerSubhani/Transformer-Image-Captioning-Qt
+git clone https://github.com/MNaseerSubhani/Transformer-Image-Captioning-Qt.git
 
 ```
 * Open the project in Qt Creator or your preferred Qt IDE.
