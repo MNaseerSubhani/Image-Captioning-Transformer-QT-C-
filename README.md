@@ -1,6 +1,8 @@
 # Image-Captioning-Transformer-QT-C++
 This is a simple application that uses an ONNX model for image captioning and a text decoder model to generate captions for images. The application is built using the Qt/C++ framework.
 
+![Demo Image](assets/demo.png)
+
 NOTE: First of all convert blip model to onnx from this [Conversion BLIP to ONNX](https://github.com/MNaseerSubhani/Blip-Image-Captioning-Large-ONNX).
 
 
