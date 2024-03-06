@@ -17,11 +17,9 @@ ONNX Runtime library
 This CMake configuration file is designed for building the Caption_app project, a Qt-based application for image and text captioning. Ensure that you have the required dependencies, including Qt and ONNX Runtime, installed on your system.
 
 * Modify the paths to the ONNX Runtime include directories to match your system's file structure. Update the following lines in the CMakeLists.txt file:
-  ```
-
+ ```
 include_directories(/path/to/onnxruntime/include/onnxruntime)
-
-  ```
+ ```
 
 * Adjust the path to link against the ONNX Runtime library. Update the following line in the CMakeLists.txt file:
 ```
